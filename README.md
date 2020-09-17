@@ -16,3 +16,5 @@
 - lalu tentukan service dari app yang dibuat
 - lalu arahkan ke folder dari docker-compose berada
 - lalu buat command untuk menjalankan service nya
+
+--BERSAMBUNG--
